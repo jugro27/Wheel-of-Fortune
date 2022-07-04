@@ -1,0 +1,1 @@
+Finally! The puzzle was solved for "{word}"! The round is now over. Onto the next round!
