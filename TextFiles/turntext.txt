@@ -1,0 +1,1 @@
+It is now {name}'s turn. Here is a recap of the word so far: {word} Good luck {name}!
