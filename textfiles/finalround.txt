@@ -1,1 +1,0 @@
-This is the final round! Congratulations to player {name} for making it this far! You arrive with earnings of {total}. Good luck!
